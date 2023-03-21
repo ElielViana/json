@@ -1,64 +1,9 @@
 {
-	"dicas" : [
-	{
-		"dica1": "Vermehlo",
-		"dica2": "Liquido",
-		"dica3": "parede",
-		"resposta": "Tinta"
-	},
-	{
-		"dica1": "Time",
-		"dica2": "Carioca",
-		"dica3": "Representa união de Brasil e Portugal",
-		"resposta": "Vasco da Gama"
-	},
-	{
-		"dica1": "Cidade Brasileira",
-		"dica2": "Terra da Garoa",
-		"dica3": "Metrópole",
-		"resposta": "São Paulo"
-	},
-	{
-		"dica1": "Jogador",
-		"dica2": "Argentino",
-		"dica3": "Capitão e campeão da Copa do Mundo da FIFA 2022",
-		"resposta": "Lionel Andres Messi"
-	},
-	{
-		"dica1": "Instrumento",
-		"dica2": "Cordas",
-		"dica3": "Contém 6 cordas",
-		"resposta": "Violão"
-	},
-	{
-		"dica1": "Energia",
-		"dica2": "Elétrica",
-		"dica3": "Gerada pelo vento",
-		"resposta": "eólica"
-	},
-	{
-		"dica1": "Esporte",
-		"dica2": "Segundo mais praticado",
-		"dica3": "No nosso país",
-		"resposta": "Vôlei"
-	},
-	{
-		"dica1": "Jogador",
-		"dica2": "Brasileiro",
-		"dica3": "Santista que jogou no barcelona",
-		"resposta": "Neymar da Silva"
-	},
-	{
-		"dica1": "É uma festa",
-		"dica2": "do Mês de Junho",
-		"dica3": "com muita pamonha e canjica",
-		"resposta": "Festa Junina"
-	},
-	{
-		"dica1": "Capital",
-		"dica2": "Tocantins",
-		"dica3": "Quente",
-		"resposta": "Palmas"
-	}
+"signos": [
+"Áries",
+"Touro",
+"Gêmeos",
+"Câncer",
+"Leão"
 ]
 }
