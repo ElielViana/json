@@ -1,8 +1,15 @@
 {
+"metais": [
+"Ouro",
+"Prata",
+"Cobre",
+"Ferro",
+"Alumínio"
+],
 "signos": [
 "Áries",
 "Touro",
 "Gêmeos",
-"Câncer",
+"Câncer"
 ]
 }
