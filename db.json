@@ -1,13 +1,13 @@
 {
-"itens:"[
-"Ouro",
-"Prata",
-"Bronze",
-"Ferro",
-"Alumínio",
-"Áries",
-"Touro",
-"Gêmeos",
-"Câncer"
-]
+   "itens": [
+      "Ouro",
+      "Prata",
+      "Bronze",
+      "Ferro",
+      "Alumínio",
+      "Áries",
+      "Touro",
+      "Gêmeos",
+      "Câncer"
+   ]
 }
